@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>函数零点和三角函数总结</title>
+      <link href="/2023/09/24/math1/"/>
+      <url>/2023/09/24/math1/</url>
+      
+        <content type="html"><![CDATA[<p><font face="STCAIYUN">在看到这个文章的内容之前，我想问问大家</font><br><font face="STCAIYUN" color=red size=3>你们高中的“老大难是什么”</font></p><p><img src="https://myclass.love/blogimg/jiaoshi.png" alt="so" title="ln"></p><p><font face="微软雅黑" color=red >没错，就是数学嘿嘿</font></p><h2 id="特殊情况">特殊情况</h2><p>因为时间原因，我这次只能尝试总结知识点了。这次改BUG时间过长了（改博客的BUG）</p><h2 id="函数的零点">函数的零点</h2><p>先放个图<br><img src="https://myclass.love/blogimg/shuxue.jpg" alt="shuxue" title="lingdian"><br><font face="宋体" color=blue size=3>我用AI简单总结了一下，就是下面这些</font></p><ol><li>函数零点的定义：对于函数f(x)，若f(a)=0，则x=a为f(x)的零点。</li><li>函数零点的判定定理：如果函数f(x)在区间[a,b]上连续，且f(a)·f(b)&lt;0，则函数f(x)在区间(a,b)内至少有一个零点。</li><li>函数零点的求解方法：<br>(1) 二分法：对于已知区间[a,b]上连续且f(a)·f(b)&lt;0的函数f(x)，通过不断缩小区间，计算区间中点的函数值，判断函数值的符号，从而确定零点所在的区间，最终求得零点的近似值。<br>(2) 函数图像法：通过函数图像观察函数的零点所在的区间。<br>(3) 方程组求解法：对于二次函数、三次函数等特定类型的函数，可以通过求解方程组来求得零点。</li><li>函数零点的应用：函数零点的求解在数学分析、实际应用等方面具有广泛的应用，如求解方程、优化问题、最小二乘法等。<br>推一个B站的课程 <a href="https://www.bilibili.com/video/BV1oW4y117Xu/?spm_id_from=333.337.search-card.all.click&amp;vd_source=140fcbd5f2ae62b0681ef4361962ab89">可以这样理解吗？</a></li></ol><h2 id="三角函数">三角函数</h2><p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><msup><mrow><mi>sin</mi><mo>⁡</mo></mrow><mn>2</mn></msup><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo><mo>+</mo><msup><mrow><mi>cos</mi><mo>⁡</mo></mrow><mn>2</mn></msup><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex"> \sin^2(\theta) + \cos^2(\theta) = 1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1219em;vertical-align:-0.25em;"></span><span class="mop"><span class="mop">sin</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8719em;"><span style="top:-3.1208em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1141em;vertical-align:-0.25em;"></span><span class="mop"><span class="mop">cos</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.02778em;">θ</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span></span></span></span></span></p><p><s>…太复杂了，不写了！</s><br><img src="https://myclass.love/blogimg/fuza.png" alt="shu" title="linan"></p><p><strong>LaTex</strong>的写法我尚未领悟，还是发创新设计数学的图吧<br><img src="https://myclass.love/blogimg/jiandan.jpg" alt="s" title="li"></p><p><font face="宋体" color=green size=3>三角函数的基本关系包括正弦函数、余弦函数和正切函数之间的关系，以及它们与直角三角形的关系。/font&gt;</p><h2 id="总结">总结</h2><p>这次没准备好，所以导致这第一篇博客没写好，下次我将会更加详细地总结知识点，并且会带上题目进行讲解</p><p><img src="https://myclass.love/blogimg/xiaonvhai.png" alt="suee" title="xiaonvhai"></p><h2 id="分享一首歌再走吧，点开就能听">分享一首歌再走吧，点开就能听</h2><iframe src="//player.bilibili.com/player.html?aid=247609487&bvid=BV1vv41177jq&cid=324439110&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> math </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>英语第三周总结</title>
+      <link href="/2023/09/24/englishblog2/"/>
+      <url>/2023/09/24/englishblog2/</url>
+      
+        <content type="html"><![CDATA[<p><font face="STCAIYUN">突然感觉时间过得好快，又过去了一个匆忙的一周，是时候做个总结了</font><br><font face="STCAIYUN">这一周是一个平平淡淡的一周（嗯好，总结完毕）</font><br><font face="微软雅黑" color=red size=3>简单总结一下吧</font></p><table><thead><tr><th>书籍</th><th style="text-align:center">内容</th></tr></thead><tbody><tr><td>选修二</td><td style="text-align:center">课文+单词</td></tr><tr><td>选修三</td><td style="text-align:center">第二单元单词</td></tr><tr><td>金考卷</td><td style="text-align:center">每天的作业</td></tr><tr><td>精准集训</td><td style="text-align:center">作文</td></tr></tbody></table><h2 id="课本内容">课本内容</h2><p><s>课本呢，不就是背背单词和读读课文吗</s><br>其实我感觉这可有意思了，像是周六早上背的单词<strong>composer</strong>，让我想起来了暑假做<strong>linux</strong>时被它所支配的恐惧。。。一个暑假没记住的单词，硬是让我在一个早上就把它记住了害。<br><img src="https://myclass.love/blogimg/composer.png" alt="composer" title="composer"><br><em>composer -v</em><br>其他的单词没给我留下太多的印象，不过老师让我们用背过的单词重组成为句子的时候，我的心情-----</p><h2 id="金考卷">金考卷</h2><p><font face="微软雅黑" color=red size=5>给你们晒两张图片</font></p><p><img src="https://myclass.love/blogimg/jinkaojuan.jpg" alt="字写得难看" title="jinkaojuan"></p><p><s>字写得太难看了</s></p><p><img src="https://myclass.love/blogimg/jinkaojuan2.jpg" alt="太丑了" title="waou"></p><h2 id="作文">作文</h2><p><strong>这次的作文是一个读后续写，故事前面是主人公的朋友，在学校受到了很多人的帮助，在最后毕业的时候，</strong><br><strong>那位朋友收到了学校的邀请，去make a speech。后面就是续写的内容了</strong><br>题目：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">One day, when I was a freshman <span class="keyword">in</span> high school, I saw a kid from my class walking home from school. His name was Kyle. It looked like he was carrying all of his books. I thought to myself, <span class="string">&quot;Why would anyone bring home all his books on a Friday? He must really be a nerd (书呆子).&quot;</span> I had quite a weekend planned, so I shrugged my shoulders and went on.</span><br><span class="line">As I was walking, I saw a bunch of kids running towards him. They ran at him, knocking all his books out of his arms and tripping him so he landed <span class="keyword">in</span> the dirt. His glasses went flying, and I saw them land <span class="keyword">in</span> the glass about ten feet from him. He looked up and I saw this terrible sadness <span class="keyword">in</span> his eyes. So, I jogged over to him and as he crawled around looking <span class="keyword">for</span> his glasses, I saw a tear <span class="keyword">in</span> his eye.</span><br><span class="line">As I handed him his glasses, I said, <span class="string">&quot;Those guys are jerks. They really should go to hell.&quot;</span> He looked at me and said, <span class="string">&quot;Hey, thanks!&quot;</span> There was a big smile on his face. It was one of those smiles that showed real gratitude. I asked him <span class="built_in">where</span> he lived. As it turned out, he lived near me.</span><br><span class="line">Over the next four years, Kyle and I became best friends. When we were seniors, he had the highest marks <span class="keyword">in</span> the class and was chosen to give a speech at the graduation ceremony. I teased him all the time about being a nerd. He had to prepare a lot, and I was so glad it wasn’t me having to get up there and speak.</span><br><span class="line">On graduation day, I saw Kyle. I said, “Hey, big guy, you’ll be great!” He looked at me with one of those looks, the really grateful one, and said, “Thanks,” smiling.</span><br><span class="line">As he started his speech, he cleared his throat, and began. <span class="string">&quot;Graduation is a time to thank those who helped you make it through those tough years. Your parents, your teachers, your siblings, maybe a coach…, but mostly your friends. I am here to tell you that being a friend to someone is the best gift you can give him or here. I’m going to tell you a story.&quot;</span></span><br><span class="line">Paragraph1:</span><br><span class="line">I just looked at my friend with disbelief as he told the story of the first day we met.</span><br><span class="line">Paragraph2:</span><br><span class="line">I smiled back <span class="keyword">in</span> tears.</span><br></pre></td></tr></table></figure><p>虚写的内容，可以写很多种。我在这里就不一一展示了哈</p><h2 id="课代表总结">课代表总结</h2><p>本周我们班英语学习氛围嘎嘎good</p><h3 id="结束啦，听一首英文歌再走吧！">结束啦，听一首英文歌再走吧！</h3><iframe src="//player.bilibili.com/player.html?aid=247609487&bvid=BV1vv41177jq&cid=324439110&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+      
+      
+      <categories>
+          
+          <category> study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> english </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>英语第二周总结</title>
+      <link href="/2023/09/17/index/"/>
+      <url>/2023/09/17/index/</url>
+      
+        <content type="html"><![CDATA[<h2 id="感慨总结">感慨总结</h2> <!--font face="逐浪新宋">我是逐浪新宋</font><font face="逐浪圆体">我是逐浪圆体</font><font face="逐浪花体">我是逐浪花体</font><font face="逐浪像素字">我是逐浪像素字</font><font face="逐浪立楷">我是逐浪立楷</font><font color=red>我是红色</font><font color=#008000>我是绿色</font><font color=yellow>我是黄色</font><font color=Blue>我是蓝色</font><font color= #871F78>我是紫色</font><font color= #DCDCDC>我是浅灰色</font><font size=5>我是尺寸</font><font size=10>我是尺寸</font--><p><font face="逐浪立楷" color=pink size=3>匆忙的一周就这样过去了，又到了写博客的时间啦</font><br><font face="逐浪立楷" color=green size=3>本周呢，我们英语老师终于回来啦！这周呢，我们在课上学习了,非谓语的知识</font><br><font face="逐浪立楷" color=red size=3>我们背诵了一张,充满单词和句子知识点，并且对句子进行了仿写</font><br><font face="逐浪立楷" color=pink size=3>通过总结课文来学习如何写一篇,申请信</font><br><font face="逐浪立楷" color=green size=3>最终我们在星期六迎来了</font><br><font face="逐浪立楷" color=red size=3>一场小测试</font></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ A hurried week has passed, and it<span class="string">&#x27;s time to blog again</span></span><br><span class="line"><span class="string"> This week, our English teacher is finally back! This week, we learned non-predicate knowledge in class, we memorized a &#125;&#123; full of words and sentences, imitated sentences, learned how to write an application letter by summarizing the text, and finally we had a quiz on Saturday</span></span><br></pre></td></tr></table></figure><h2 id="非谓语知识点总结">非谓语知识点总结</h2><p>这次…又忘带笔记本了，害。咋办呢？<br>现场总结吧，顺带在网上搜了一些知识点（学习了）。<br><img src="https://myclass.love/blogimg/feiweiyu.jpg" alt="feiweiyu" title="feiweiyu"><br><strong>这是在网上找的，不过说实话，我们好像还没讲这么多</strong><br><em>英语非谓语动词包括不定式、动名词和分词（现在分词和过去分词）。</em></p><ol><li>不定式：做主语、宾语、表语、定语、状语和补语。</li><li>动名词：做主语、宾语、表语、定语和补语。</li><li>现在分词：做表语、定语、状语和补语。</li><li>过去分词：做表语、定语、状语和补语。<br><font face="逐浪立楷" color=red size=3>需要注意的是，如果句中已经有谓语动词，再出现动词表示动作时，须用非谓语形式，如果是并列谓语要有and或“……”连接</font><br><font face="逐浪立楷" color=red size=3>此外，不定式和动名词作主语的区别在于：动名词作主语通常表示抽象动作，而不定式作主语表示具体动作。</font></li></ol><h2 id="一张充满知识点的小卷子">一张充满知识点的小卷子</h2><p><strong>背着可难背了害，到最后还要根据背过内容<s>再重写一次</s></strong><br><strong>与其说是重写，不如说是仿写。嘎嘎不会</strong><br><img src="https://myclass.love/blogimg/wotainanle.jpg" alt="buhui" title="buhui"></p><h2 id="申请信总结（申请工作）">申请信总结（申请工作）</h2><table><thead><tr><th>大致内容</th><th>怎么写</th><th>放在第几段</th></tr></thead><tbody><tr><td>要申请什么工作</td><td>怎么看到招聘信息的，要做什么工作</td><td>开头</td></tr><tr><td>介绍自己的能力</td><td>自己能干什么</td><td>第二段</td></tr><tr><td>介绍自己的性格</td><td>自己是一个什么样的人</td><td>第二段</td></tr><tr><td>自己能为组织做出什么</td><td>重心在自己的贡献上</td><td>第二段</td></tr><tr><td>表达自己的诉求</td><td>希望甲方能录用我</td><td>第三段</td></tr></tbody></table><p><s>我是个大冤种，作文本也忘带了，没办法现写吧</s><br><font face="逐浪立楷" color=red size=10> <s>本次写作，让阿里云的同义千问帮我协议了一点</s> </font></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">$ Dear Sir/Madam,</span><br><span class="line">I am Li Hua, a Chinese student studying <span class="keyword">in</span> London during the summer vacation. I am writing to apply <span class="keyword">for</span> the position of a volunteer <span class="keyword">for</span> the Chinese Painting Exhibition to be held <span class="keyword">in</span> your gallery.</span><br><span class="line">I believe that I am qualified <span class="keyword">for</span> the position because I have been learning Chinese painting since I was a child and have a good understanding of its <span class="built_in">history</span> and techniques. I am confident that my knowledge and skills will be useful <span class="keyword">in</span> assisting visitors to the exhibition.</span><br><span class="line">I am a responsible and hardworking person <span class="built_in">who</span> can work well under pressure. I am confident that I can provide excellent service to visitors and <span class="built_in">help</span> to make the exhibition a success.</span><br><span class="line">I am available to attend any training sessions or meetings that may be required, and I am looking forward to hearing from you soon.</span><br><span class="line">Thank you <span class="keyword">for</span> your time and consideration.</span><br><span class="line">Sincerely,</span><br><span class="line">Li Hua</span><br></pre></td></tr></table></figure><p>翻译过来就是<br>尊敬的先生/女士，<br>我是李华，暑假在伦敦留学的中国学生。我写信申请在你们画廊举办的中国画展的志愿者职位。<br>我相信我有资格担任这个职位，因为我从小就学习中国画，对它的历史和技术有很好的了解。我相信我的知识和技能将有助于协助参观者参观展览。<br>我是一个有责任心和勤奋的人，可以在压力下很好地工作。我有信心为参观者提供优质的服务，并帮助展览取得成功。<br>我可以参加可能需要的任何培训课程或会议，我期待很快收到您的来信。<br>感谢您的时间和考虑。<br>真诚地<br>李华<br><font face="逐浪立楷" color=blue size=5> ==优秀之处== </font></p><ol><li>首先第一段说明了自己要找什么工作</li><li>第二段说明了自己的能力</li><li>第三段说明了自己的性格和自己能为组织做出什么</li><li>第四段表达诉求</li></ol><p><font face="逐浪立楷" color=green size=5> ==不足之处== </font></p><ol><li>篇幅过长，段落过多（第三段前半部分可以和第二段放在一块儿写）</li><li>在第二段，可以使用First of all ， what is more ，lastly等，来让文段显得非常清晰（有利于老师改卷）</li></ol><h2 id="考试-其实感觉更像测试">考试(其实感觉更像测试)</h2><p>本次考试主要是考了一些这两三个星期所背的知识点卷子，其实也没啥东西，就是单词和句子。<br>还有一张金考卷101的完型，<strong>我之前已经做过了，当拿出卷子的时候，看到我上面的题目写完而且改完了</strong><br>我的内心~~~~</p><p><font face="逐浪立楷" color=red size=5> ==还好，我找到一张空白的== </font></p><h2 id="课代表总结">课代表总结</h2><p>本周课代表的工作，感觉做得不好，有几次作业交的有点晚了。<br>尤其在星期六早上，因为我的疏忽我们不清楚作业提交的真实情况，最后还麻烦另一位课代表把作业整理成一组一组的，然后查哪一组的不齐，不过最后发现这是徒劳…（就只有一人未交，而且在查之前就知道了）。<br>她把大部分统计完了，我自己又把剩下的统计了。（确实麻烦人家了，但是这是在网上，我得保护人家的隐私）<br><img src="https://myclass.love/blogimg/meimei.png" alt="kuqi" title="kuqi"><br><em>我为我的疏忽从而导致的麻烦，感到极度抱歉。</em><br><em>我保证，这错，我以后再也不会犯了</em></p><h2 id="最后看个视频吧">最后看个视频吧</h2><p>这一回家，b站上给我推了一堆关于视频，得知华为这次突破技术封锁了（虽然还有很长的一段路，但是呢，我们…<br><font face="逐浪立楷" color=red size=10> 遥遥领先！轻舟已过万重山！！！ </font></p><iframe src="//player.bilibili.com/player.html?aid=48803444&bvid=BV16b411T7JV&cid=85548037&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h2 id="拜拜！！！">拜拜！！！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> english </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>英语第一周总结</title>
+      <link href="/2023/09/10/englishblog1/"/>
+      <url>/2023/09/10/englishblog1/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到我的第一篇博客，首先我在这个特殊的日子里祝全天下的老师教师节快乐！！<br>从这周开始，我会做一个一周一度的英语一周学习记录的博客</p><h2 id="开始写！">开始写！</h2><h3 id="特殊情况">特殊情况</h3><p>由于本周回家大部分时间都在搭建这个站点（实现了好几个功能，简单修复了几个BUG，从昨天下午到凌晨两点左右，再从早上到下午四点多），现在该去学校了，所以我只能写的简单一点了。而且这次我忘带英语资料了emm…<br>Due to spending most of this week building this site (implementing several functions and simply fixing a few bugs, from yesterday afternoon to around 2 am, and then from morning to around 4 pm), it’s time to go to school now, so I can only write more simply. And this time I forgot to bring my English materials, emm</p><h3 id="本周写的作业">本周写的作业</h3><p>本周的作业主要是金考卷，我记得有次作业写的是金考卷18页的完形填空。<br>最后一天，我又跟我的同桌一起写了金考卷上的一道今年高考的完形填空~~~有点小难 This week’s homework is mainly on the gold exam paper. I remember one time, I wrote the cloze on page 18 of the gold exam paper.<br>On the last day, I worked with my desk mate to write a cloze test for this year’s college entrance examination, which was a bit difficult</p><h3 id="英语课上课内容">英语课上课内容</h3><p>本周英语老师不在，由其他老师给我们代课（在此感谢马老师贺老师），没老师的时候，我和其他两位课代表主持了英语课堂，不过感觉还是她们两个做的贡献最大。我们在课上复习了必修一的一篇关于甲骨文的课文，复习了必修一第五单元的单词，记得最后一节课，我们一起翻译了一篇作文。</p><p>This week, the English teacher was absent and we were replaced by other teachers ，you to Teacher Ma and Teacher He（马老师和贺老师 ，there were no teachers, I and two other class representatives presided over the English class, but I felt that they were the two of them who made the greatest contribution. We reviewed a text about oracle bone inscriptions in Compulsory One in class, reviewed the words in Unit 5 of Compulsory One, and remembered that in the last class, we translated an essay together.</p><h3 id="英语知识点总结">英语知识点总结</h3><p>sorry，本周回家没带知识点…下次一定！<br>再加上现在已经四点半了，现找也来不及了，下次一定！<br>Sorry, I didn’t bring any knowledge points home this week Definitely next time!<br>In addition, it’s already 4:30 now and we can’t find it in time. We’ll definitely do it next time!</p><h3 id="感恩，在特殊的日子">感恩，在特殊的日子</h3><p>在这个教师节，感谢全天下的好老师。老师们，您们辛苦啦！<br>On this Teacher’s Day, thank you to all the good teachers in the world. Teachers, you have worked hard!<br>More info: <a href="https://baike.baidu.com/item/%e6%95%99%e5%b8%88%e8%8a%82/488934">了解更多教师节</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> english </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/09/02/hello-world/"/>
+      <url>/2023/09/02/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
