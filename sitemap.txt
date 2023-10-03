@@ -1,3 +1,4 @@
+https://myclass.love/2023/09/24/showip/
 https://myclass.love/2023/09/24/math1/
 https://myclass.love/2023/09/24/englishblog2/
 https://myclass.love/wordScenery/index.html
@@ -19,6 +20,7 @@ https://myclass.love/2023/09/02/hello-world/
 https://myclass.love/manifest.json
 https://myclass.love/about/index.html
 https://myclass.love/
+https://myclass.love/tags/hexo/
 https://myclass.love/tags/math/
 https://myclass.love/tags/english/
 https://myclass.love/categories/study/
