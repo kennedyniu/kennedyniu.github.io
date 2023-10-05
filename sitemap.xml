@@ -1,110 +1,255 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 21 Generated at: 2023-10-05 00:41:29 -->
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
-    <loc>https://blog.myclass.love/link/</loc>
-    <priority>1.00</priority>
+    <loc>https://blog.myclass.love/2023/10/05/englishblog3/</loc>
+    
+    <lastmod>2023-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
-
+  
   <url>
-    <loc>https://blog.myclass.love/fcircle/</loc>
-    <priority>1.00</priority>
+    <loc>https://blog.myclass.love/air-conditioner/index.html</loc>
+    
+    <lastmod>2023-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
-
-  <url>
-    <loc>https://blog.myclass.love/comments/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/album/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/air-conditioner/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/about/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/essay/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/archives/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/categories/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/tags/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/tags/english/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/tags/hexo/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/tags/math/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/archives/2023/09/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/2023/09/10/englishblog1/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/2023/09/24/englishblog2/</loc>
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://blog.myclass.love/2023/09/17/index/</loc>
-    <priority>1.00</priority>
-  </url>
-
+  
   <url>
     <loc>https://blog.myclass.love/2023/09/24/showip/</loc>
-    <priority>1.00</priority>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
-
+  
   <url>
     <loc>https://blog.myclass.love/2023/09/24/math1/</loc>
-    <priority>1.00</priority>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/2023/09/24/englishblog2/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/wordScenery/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/dailyPhoto/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/album/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/2023/09/10/englishblog1/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/2023/09/17/index/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/categories/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/music/index.html</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/english/index.html</loc>
+    
+    <lastmod>2023-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/essay/index.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/fcircle/index.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/json/music.json</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/equipment/index.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/link/index.html</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/2023/09/02/hello-world/</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/manifest.json</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/about/index.html</loc>
+    
+    <lastmod>2023-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://blog.myclass.love/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/hexo/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/math/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/english/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
   <url>
     <loc>https://blog.myclass.love/categories/study/</loc>
-    <priority>1.00</priority>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
-
+  
   <url>
-    <loc>https://blog.myclass.love/about</loc>
-    <priority>1.00</priority>
+    <loc>https://blog.myclass.love/categories/study/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
-
+  
 </urlset>

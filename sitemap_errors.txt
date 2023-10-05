@@ -1,4 +1,0 @@
-https://blog.myclass.love/music/
-https://blog.myclass.love/2023/09/02/hello-world/
-https://blog.myclass.love/${array[i].url}
-https://blog.myclass.love/essay/${array[i].url}

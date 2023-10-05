@@ -1,1 +1,1 @@
-var posts=["2023/09/10/englishblog1/","2023/09/24/englishblog2/","2023/09/17/index/","2023/09/24/showip/","2023/09/02/hello-world/","2023/09/24/math1/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/10/englishblog1/","2023/09/24/englishblog2/","2023/09/17/index/","2023/09/24/showip/","2023/09/02/hello-world/","2023/09/24/math1/","2023/10/05/englishblog3/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
