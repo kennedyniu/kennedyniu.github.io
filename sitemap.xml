@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.myclass.love/2023/11/18/shengwu/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.myclass.love/2023/10/05/englishblog3/</loc>
     
     <lastmod>2023-10-05</lastmod>
@@ -202,7 +211,7 @@
 
   <url>
     <loc>https://blog.myclass.love/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -210,28 +219,35 @@
   
   <url>
     <loc>https://blog.myclass.love/tags/hexo/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.myclass.love/tags/math/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.myclass.love/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.myclass.love/tags/english/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.myclass.love/tags/shengwu/</loc>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -240,14 +256,14 @@
   
   <url>
     <loc>https://blog.myclass.love/categories/study/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.myclass.love/categories/study/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

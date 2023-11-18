@@ -1,3 +1,4 @@
+https://blog.myclass.love/2023/11/18/shengwu/
 https://blog.myclass.love/2023/10/05/englishblog3/
 https://blog.myclass.love/air-conditioner/index.html
 https://blog.myclass.love/2023/09/24/showip/
@@ -25,5 +26,6 @@ https://blog.myclass.love/tags/hexo/
 https://blog.myclass.love/tags/math/
 https://blog.myclass.love/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/
 https://blog.myclass.love/tags/english/
+https://blog.myclass.love/tags/shengwu/
 https://blog.myclass.love/categories/study/
 https://blog.myclass.love/categories/study/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/
